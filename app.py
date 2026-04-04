@@ -4,7 +4,10 @@ import code
 
 ui.input_selectize(
     "var", "Select variable",
-    choices=["revenue", "value"]
+    choices=[   "Total Municipal Taxes", 
+                "Total Property Value",
+                "Population",
+                "Municipal Taxes per Capita"]
 )
 
 @render.plot
