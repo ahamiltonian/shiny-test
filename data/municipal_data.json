@@ -1,0 +1,3341 @@
+[
+  {
+    "Year": 2005,
+    "Municipality": "Squamish",
+    "Population": 14954.0,
+    "Total Taxable Value": 2057124317,
+    "Total Taxes Collected": 12325326.0,
+    "Tax per Capita": 824.2159957202086,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 1681620100,
+        "Tax Rate": 3.419790029525757,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 32435090,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 11.696624755859375
+      },
+      "Major Industry": {
+        "Taxable Value": 49496000,
+        "Tax Rate": 55.12482833862305,
+        "Tax Multiple": 16.119359970092773
+      },
+      "Light Industry": {
+        "Taxable Value": 21975200,
+        "Tax Rate": 14.403129577636719,
+        "Tax Multiple": 4.211699962615967
+      },
+      "Business/Other": {
+        "Taxable Value": 265501627,
+        "Tax Rate": 9.461079597473145,
+        "Tax Multiple": 2.7665674686431885
+      },
+      "Managed Forest": {
+        "Taxable Value": 583000,
+        "Tax Rate": 89.24463653564453,
+        "Tax Multiple": 26.096525192260742
+      },
+      "Recreation": {
+        "Taxable Value": 5485800,
+        "Tax Rate": 6.136940002441406,
+        "Tax Multiple": 1.79453706741333
+      },
+      "Farm": {
+        "Taxable Value": 27500,
+        "Tax Rate": 70.185791015625,
+        "Tax Multiple": 20.523420333862305
+      }
+    },
+    "House Value": 342444,
+    "Total Variable Rate Taxes": 2103.94511604,
+    "Total Property Taxes and Charges": 2626.94511604
+  },
+  {
+    "Year": 2005,
+    "Municipality": "Whistler",
+    "Population": 9480.0,
+    "Total Taxable Value": 9633693633,
+    "Total Taxes Collected": 24769240.0,
+    "Tax per Capita": 2613.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8117256486,
+        "Tax Rate": 1.7831000089645386,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 11732547,
+        "Tax Rate": 13.533699989318848,
+        "Tax Multiple": 7.5899834632873535
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 7.524700164794922,
+        "Tax Multiple": 4.220010280609131
+      },
+      "Light Industry": {
+        "Taxable Value": 3066284,
+        "Tax Rate": 7.399899959564209,
+        "Tax Multiple": 4.150019645690918
+      },
+      "Business/Other": {
+        "Taxable Value": 1461979516,
+        "Tax Rate": 6.6905999183654785,
+        "Tax Multiple": 3.7522292137145996
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 7.524700164794922,
+        "Tax Multiple": 4.220010280609131
+      },
+      "Recreation": {
+        "Taxable Value": 39658800,
+        "Tax Rate": 8.380599975585938,
+        "Tax Multiple": 4.700016975402832
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 3.0669000148773193,
+        "Tax Multiple": 1.7199820280075073
+      }
+    },
+    "House Value": 1161630,
+    "Total Variable Rate Taxes": 4821.112989,
+    "Total Property Taxes and Charges": 5573.112989
+  },
+  {
+    "Year": 2005,
+    "Municipality": "Pemberton",
+    "Population": 1997.0,
+    "Total Taxable Value": 369258305,
+    "Total Taxes Collected": 767053.0,
+    "Tax per Capita": 384.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 306586100,
+        "Tax Rate": 1.6684000492095947,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 595755,
+        "Tax Rate": 10.010430335998535,
+        "Tax Multiple": 6.000018119812012
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 1109900,
+        "Tax Rate": 5.672579765319824,
+        "Tax Multiple": 3.4000117778778076
+      },
+      "Business/Other": {
+        "Taxable Value": 58518950,
+        "Tax Rate": 4.087590217590332,
+        "Tax Multiple": 2.4500060081481934
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 2415200,
+        "Tax Rate": 1.6684000492095947,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 32400,
+        "Tax Rate": 1.6684000492095947,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 395020,
+    "Total Variable Rate Taxes": 1852.9440152,
+    "Total Property Taxes and Charges": 2687.9440152
+  },
+  {
+    "Year": 2006,
+    "Municipality": "Squamish",
+    "Population": 15726.0,
+    "Total Taxable Value": 2260367336.0,
+    "Total Taxes Collected": 13284368.0,
+    "Tax per Capita": 844.7391580821569,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 1881694700.0,
+        "Tax Rate": 3.426959991455078,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 40141740.0,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 11.672152519226074
+      },
+      "Major Industry": {
+        "Taxable Value": 49079000.0,
+        "Tax Rate": 58.861061096191406,
+        "Tax Multiple": 17.17588233947754
+      },
+      "Light Industry": {
+        "Taxable Value": 23756600.0,
+        "Tax Rate": 13.508899688720703,
+        "Tax Multiple": 3.941948413848877
+      },
+      "Business/Other": {
+        "Taxable Value": 255090929.0,
+        "Tax Rate": 9.161680221557617,
+        "Tax Multiple": 2.6734132766723633
+      },
+      "Managed Forest": {
+        "Taxable Value": 750000.0,
+        "Tax Rate": 71.46623992919922,
+        "Tax Multiple": 20.854122161865234
+      },
+      "Recreation": {
+        "Taxable Value": 9830000.0,
+        "Tax Rate": 3.5650100708007812,
+        "Tax Multiple": 1.0402835607528687
+      },
+      "Farm": {
+        "Taxable Value": 24367.0,
+        "Tax Rate": 81.5580825805664,
+        "Tax Multiple": 23.798959732055664
+      }
+    },
+    "House Value": 363242,
+    "Total Variable Rate Taxes": 2187.94459796,
+    "Total Property Taxes and Charges": 2711.20459796
+  },
+  {
+    "Year": 2006,
+    "Municipality": "Whistler",
+    "Population": 9775.0,
+    "Total Taxable Value": 9454866307.0,
+    "Total Taxes Collected": 25927274.0,
+    "Tax per Capita": 2652.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 7829590686.0,
+        "Tax Rate": 1.933500051498413,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 11604352.0,
+        "Tax Rate": 14.675299644470215,
+        "Tax Multiple": 7.590017795562744
+      },
+      "Major Industry": {
+        "Taxable Value": 0.0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3136000.0,
+        "Tax Rate": 8.031700134277344,
+        "Tax Multiple": 4.1539692878723145
+      },
+      "Business/Other": {
+        "Taxable Value": 1570480469.0,
+        "Tax Rate": 6.531499862670898,
+        "Tax Multiple": 3.378070592880249
+      },
+      "Managed Forest": {
+        "Taxable Value": 0.0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 40054800.0,
+        "Tax Rate": 8.380599975585938,
+        "Tax Multiple": 4.334419250488281
+      },
+      "Farm": {
+        "Taxable Value": 0.0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1146398,
+    "Total Variable Rate Taxes": 4806.3882548,
+    "Total Property Taxes and Charges": 5585.3882548
+  },
+  {
+    "Year": 2006,
+    "Municipality": "Pemberton",
+    "Population": 2510.0,
+    "Total Taxable Value": 358613701.0,
+    "Total Taxes Collected": 837609.0,
+    "Tax per Capita": 334.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 286084700.0,
+        "Tax Rate": 1.8068300485610962,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 620305.0,
+        "Tax Rate": 10.84099006652832,
+        "Tax Multiple": 6.00000524520874
+      },
+      "Major Industry": {
+        "Taxable Value": 0.0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 990100.0,
+        "Tax Rate": 6.143229961395264,
+        "Tax Multiple": 3.4000043869018555
+      },
+      "Business/Other": {
+        "Taxable Value": 68612200.0,
+        "Tax Rate": 4.4267401695251465,
+        "Tax Multiple": 2.4500036239624023
+      },
+      "Managed Forest": {
+        "Taxable Value": 0.0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 2273900.0,
+        "Tax Rate": 1.8068300485610962,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 32496.0,
+        "Tax Rate": 1.8068300485610962,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 383936,
+    "Total Variable Rate Taxes": 1957.64359168,
+    "Total Property Taxes and Charges": 2827.64359168
+  },
+  {
+    "Year": 2007,
+    "Municipality": "Squamish",
+    "Population": 16106,
+    "Total Taxable Value": 2563546369,
+    "Total Taxes Collected": 13569885.4268323,
+    "Tax per Capita": 842.536037925759,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2099356352,
+        "Tax Rate": 3.63414,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 41320630,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 11.0067306157715
+      },
+      "Major Industry": {
+        "Taxable Value": 13087000,
+        "Tax Rate": 27.5,
+        "Tax Multiple": 7.56712729834294
+      },
+      "Light Industry": {
+        "Taxable Value": 28042825,
+        "Tax Rate": 13.50892,
+        "Tax Multiple": 3.71722608375021
+      },
+      "Business/Other": {
+        "Taxable Value": 368305495,
+        "Tax Rate": 8.96835,
+        "Tax Multiple": 2.46780531294887
+      },
+      "Managed Forest": {
+        "Taxable Value": 2888000,
+        "Tax Rate": 71.46635,
+        "Tax Multiple": 19.6652715635611
+      },
+      "Recreation": {
+        "Taxable Value": 10521700,
+        "Tax Rate": 3.56501,
+        "Tax Multiple": 0.980977617813293
+      },
+      "Farm": {
+        "Taxable Value": 24367,
+        "Tax Rate": 81.55225,
+        "Tax Multiple": 22.4405911715014
+      }
+    },
+    "House Value": 382345,
+    "Total Variable Rate Taxes": 2273.51130935,
+    "Total Property Taxes and Charges": 2846.56130935
+  },
+  {
+    "Year": 2007,
+    "Municipality": "Whistler",
+    "Population": 9877,
+    "Total Taxable Value": 9472331699,
+    "Total Taxes Collected": 26677661.5018045,
+    "Tax per Capita": 2700.98830634854,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 7750313326,
+        "Tax Rate": 1.9811,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 11463707,
+        "Tax Rate": 15.0365,
+        "Tax Multiple": 7.58997526626622
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3043300,
+        "Tax Rate": 8.2294,
+        "Tax Multiple": 4.1539548735551
+      },
+      "Business/Other": {
+        "Taxable Value": 1667913566,
+        "Tax Rate": 6.4494,
+        "Tax Multiple": 3.25546413608601
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 39597800,
+        "Tax Rate": 9.3201,
+        "Tax Multiple": 4.70450759678966
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1132290,
+    "Total Variable Rate Taxes": 4521.460428,
+    "Total Property Taxes and Charges": 5349.460428
+  },
+  {
+    "Year": 2007,
+    "Municipality": "Pemberton",
+    "Population": 2283,
+    "Total Taxable Value": 359228189,
+    "Total Taxes Collected": 889573.18159651,
+    "Tax per Capita": 389.650977484236,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 282039439,
+        "Tax Rate": 1.96104,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 655690,
+        "Tax Rate": 10.97386,
+        "Tax Multiple": 5.5959388895688
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2261271,
+        "Tax Rate": 2.87811,
+        "Tax Multiple": 1.46764471912863
+      },
+      "Business/Other": {
+        "Taxable Value": 71942239,
+        "Tax Rate": 4.42466,
+        "Tax Multiple": 2.25628238077755
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 2267100,
+        "Tax Rate": 1.93911,
+        "Tax Multiple": 0.988817158242565
+      },
+      "Farm": {
+        "Taxable Value": 62450,
+        "Tax Rate": 1.00592,
+        "Tax Multiple": 0.512952311018643
+      }
+    },
+    "House Value": 370930,
+    "Total Variable Rate Taxes": 2059.4144879,
+    "Total Property Taxes and Charges": 2951.4144879
+  },
+  {
+    "Year": 2008,
+    "Municipality": "Squamish",
+    "Population": 16554.0,
+    "Total Taxable Value": 3078637697,
+    "Total Taxes Collected": 15551568.8123091,
+    "Tax per Capita": 939.444775420391,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2548337300,
+        "Tax Rate": 3.45512,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 45837780,
+        "Tax Rate": 40.00001,
+        "Tax Multiple": 11.577024821135
+      },
+      "Major Industry": {
+        "Taxable Value": 13535000,
+        "Tax Rate": 27.49953,
+        "Tax Multiple": 7.95906654472204
+      },
+      "Light Industry": {
+        "Taxable Value": 37326300,
+        "Tax Rate": 13.69142,
+        "Tax Multiple": 3.96264673875292
+      },
+      "Business/Other": {
+        "Taxable Value": 421517450,
+        "Tax Rate": 9.23913,
+        "Tax Multiple": 2.67404026488226
+      },
+      "Managed Forest": {
+        "Taxable Value": 1181000,
+        "Tax Rate": 77.82241,
+        "Tax Multiple": 22.5237936743152
+      },
+      "Recreation": {
+        "Taxable Value": 10878500,
+        "Tax Rate": 3.80674,
+        "Tax Multiple": 1.10176781124823
+      },
+      "Farm": {
+        "Taxable Value": 24367,
+        "Tax Rate": 90.91755,
+        "Tax Multiple": 26.3138617472042
+      }
+    },
+    "House Value": 446174,
+    "Total Variable Rate Taxes": 2495.88843252,
+    "Total Property Taxes and Charges": 3160.37843252
+  },
+  {
+    "Year": 2008,
+    "Municipality": "Whistler",
+    "Population": 9702.0,
+    "Total Taxable Value": 10006169537,
+    "Total Taxes Collected": 27049480.3512034,
+    "Tax per Capita": 2788.03136994469,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8692659013,
+        "Tax Rate": 2.0142,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 18291757,
+        "Tax Rate": 15.2877,
+        "Tax Multiple": 7.58996127494787
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3671300,
+        "Tax Rate": 8.3669,
+        "Tax Multiple": 4.15395690596763
+      },
+      "Business/Other": {
+        "Taxable Value": 1239880967,
+        "Tax Rate": 7.0497,
+        "Tax Multiple": 3.5
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 51666500,
+        "Tax Rate": 9.4758,
+        "Tax Multiple": 4.70449806374739
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1244199,
+    "Total Variable Rate Taxes": 4861.8320124,
+    "Total Property Taxes and Charges": 5860.8320124
+  },
+  {
+    "Year": 2008,
+    "Municipality": "Pemberton",
+    "Population": 2339.0,
+    "Total Taxable Value": 367719899,
+    "Total Taxes Collected": 935652.86601224,
+    "Tax per Capita": 400.022601971885,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 298718900,
+        "Tax Rate": 1.99496,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 667050,
+        "Tax Rate": 11.96977,
+        "Tax Multiple": 6.00000501263183
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2254500,
+        "Tax Rate": 6.78287,
+        "Tax Multiple": 3.4000030075791
+      },
+      "Business/Other": {
+        "Taxable Value": 63822151,
+        "Tax Rate": 4.88766,
+        "Tax Multiple": 2.45000401010547
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 2224800,
+        "Tax Rate": 1.99496,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 32498,
+        "Tax Rate": 1.99496,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 390315,
+    "Total Variable Rate Taxes": 2132.5328403,
+    "Total Property Taxes and Charges": 3033.5328403
+  },
+  {
+    "Year": 2009,
+    "Municipality": "Squamish",
+    "Population": 16554,
+    "Total Taxable Value": 3172607643,
+    "Total Taxes Collected": 16289479.3699484,
+    "Tax per Capita": 984.020742415637,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2660255365,
+        "Tax Rate": 3.58269,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 44763130,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 11.1647951678767
+      },
+      "Major Industry": {
+        "Taxable Value": 13535000,
+        "Tax Rate": 27.50065,
+        "Tax Multiple": 7.67597810583668
+      },
+      "Light Industry": {
+        "Taxable Value": 31420900,
+        "Tax Rate": 14.9444,
+        "Tax Multiple": 4.1712791226704
+      },
+      "Business/Other": {
+        "Taxable Value": 409366050,
+        "Tax Rate": 9.75778,
+        "Tax Multiple": 2.72359037483009
+      },
+      "Managed Forest": {
+        "Taxable Value": 1087000,
+        "Tax Rate": 80.11139,
+        "Tax Multiple": 22.360681499097
+      },
+      "Recreation": {
+        "Taxable Value": 12173400,
+        "Tax Rate": 3.62058,
+        "Tax Multiple": 1.01057585222277
+      },
+      "Farm": {
+        "Taxable Value": 6798,
+        "Tax Rate": 93.6122,
+        "Tax Multiple": 26.1290259553576
+      }
+    },
+    "House Value": 451565,
+    "Total Variable Rate Taxes": 2613.07570115,
+    "Total Property Taxes and Charges": 3302.92570115
+  },
+  {
+    "Year": 2009,
+    "Municipality": "Whistler",
+    "Population": 9702,
+    "Total Taxable Value": 10046507945,
+    "Total Taxes Collected": 29561132.4688577,
+    "Tax per Capita": 3046.91120066561,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8717373221,
+        "Tax Rate": 2.1956,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 18811257,
+        "Tax Rate": 16.479,
+        "Tax Multiple": 7.50546547640736
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3656300,
+        "Tax Rate": 9.0733,
+        "Tax Multiple": 4.13249225724176
+      },
+      "Business/Other": {
+        "Taxable Value": 1253053667,
+        "Tax Rate": 7.6113,
+        "Tax Multiple": 3.46661504827837
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 53613500,
+        "Tax Rate": 10.0858,
+        "Tax Multiple": 4.59364182911277
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1263660,
+    "Total Variable Rate Taxes": 5164.831152,
+    "Total Property Taxes and Charges": 6248.831152
+  },
+  {
+    "Year": 2009,
+    "Municipality": "Pemberton",
+    "Population": 2339,
+    "Total Taxable Value": 367473099,
+    "Total Taxes Collected": 971682.8923834,
+    "Tax per Capita": 415.426632057888,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 296078900,
+        "Tax Rate": 2.1139,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 849050,
+        "Tax Rate": 12.6831,
+        "Tax Multiple": 5.9998580822177
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2250500,
+        "Tax Rate": 7.1871,
+        "Tax Multiple": 3.39992431051611
+      },
+      "Business/Other": {
+        "Taxable Value": 66037351,
+        "Tax Rate": 4.7562,
+        "Tax Multiple": 2.24996452055443
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 2224800,
+        "Tax Rate": 2.1139,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 32498,
+        "Tax Rate": 2.1139,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 388091,
+    "Total Variable Rate Taxes": 2231.9501501,
+    "Total Property Taxes and Charges": 3174.7601501
+  },
+  {
+    "Year": 2010,
+    "Municipality": "Squamish",
+    "Population": 17898,
+    "Total Taxable Value": 3337856993,
+    "Total Taxes Collected": 17316727.8768863,
+    "Tax per Capita": 967.523068325303,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2804420800,
+        "Tax Rate": 3.65571,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 44696130,
+        "Tax Rate": 39.99999,
+        "Tax Multiple": 10.9417842224903
+      },
+      "Major Industry": {
+        "Taxable Value": 13427000,
+        "Tax Rate": 27.49999,
+        "Tax Multiple": 7.52247579813497
+      },
+      "Light Industry": {
+        "Taxable Value": 26527700,
+        "Tax Rate": 14.94165,
+        "Tax Multiple": 4.0872087775015
+      },
+      "Business/Other": {
+        "Taxable Value": 435585365,
+        "Tax Rate": 10.09068,
+        "Tax Multiple": 2.7602517705179
+      },
+      "Managed Forest": {
+        "Taxable Value": 834000,
+        "Tax Rate": 82.8379,
+        "Tax Multiple": 22.6598663460723
+      },
+      "Recreation": {
+        "Taxable Value": 12359200,
+        "Tax Rate": 3.72397,
+        "Tax Multiple": 1.01867215944372
+      },
+      "Farm": {
+        "Taxable Value": 6798,
+        "Tax Rate": 96.99281,
+        "Tax Multiple": 26.5318665867916
+      }
+    },
+    "House Value": 459280,
+    "Total Variable Rate Taxes": 2643.0966936,
+    "Total Property Taxes and Charges": 3361.0966936
+  },
+  {
+    "Year": 2010,
+    "Municipality": "Whistler",
+    "Population": 10531,
+    "Total Taxable Value": 10130389024,
+    "Total Taxes Collected": 32024794.5636641,
+    "Tax per Capita": 3041.00223755238,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8905734021,
+        "Tax Rate": 2.3482,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 28159606,
+        "Tax Rate": 17.9429,
+        "Tax Multiple": 7.64112937569202
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3926000,
+        "Tax Rate": 9.5912,
+        "Tax Multiple": 4.08449024784942
+      },
+      "Business/Other": {
+        "Taxable Value": 1138761597,
+        "Tax Rate": 8.8085,
+        "Tax Multiple": 3.75117110978622
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 53807800,
+        "Tax Rate": 10.0106,
+        "Tax Multiple": 4.26309513670045
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1335000,
+    "Total Variable Rate Taxes": 5682.6945,
+    "Total Property Taxes and Charges": 6766.6945
+  },
+  {
+    "Year": 2010,
+    "Municipality": "Pemberton",
+    "Population": 2437,
+    "Total Taxable Value": 426989972,
+    "Total Taxes Collected": 1000821.8860808,
+    "Tax per Capita": 410.677835896922,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 356019400,
+        "Tax Rate": 1.9252,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 875225,
+        "Tax Rate": 11.5508,
+        "Tax Multiple": 5.99979222937877
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2771500,
+        "Tax Rate": 6.5454,
+        "Tax Multiple": 3.39985456056514
+      },
+      "Business/Other": {
+        "Taxable Value": 65471801,
+        "Tax Rate": 4.3316,
+        "Tax Multiple": 2.24994805734469
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 1808600,
+        "Tax Rate": 1.9252,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 43446,
+        "Tax Rate": 1.9252,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 454507,
+    "Total Variable Rate Taxes": 2503.4700067,
+    "Total Property Taxes and Charges": 3468.1600067
+  },
+  {
+    "Year": 2011,
+    "Municipality": "Squamish",
+    "Population": 18712,
+    "Total Taxable Value": 3433310728,
+    "Total Taxes Collected": 18150178.9631928,
+    "Tax per Capita": 969.975361436125,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2895550200,
+        "Tax Rate": 3.75861,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 44504480,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 10.642232101761
+      },
+      "Major Industry": {
+        "Taxable Value": 13537000,
+        "Tax Rate": 27.5,
+        "Tax Multiple": 7.3165345699607
+      },
+      "Light Industry": {
+        "Taxable Value": 24273400,
+        "Tax Rate": 14.98997,
+        "Tax Multiple": 3.98816849846087
+      },
+      "Business/Other": {
+        "Taxable Value": 440388350,
+        "Tax Rate": 10.50134,
+        "Tax Multiple": 2.79394244148768
+      },
+      "Managed Forest": {
+        "Taxable Value": 764000,
+        "Tax Rate": 92.65183,
+        "Tax Multiple": 24.6505569878226
+      },
+      "Recreation": {
+        "Taxable Value": 14286500,
+        "Tax Rate": 3.81136,
+        "Tax Multiple": 1.0140344435842
+      },
+      "Farm": {
+        "Taxable Value": 6798,
+        "Tax Rate": 106.79612,
+        "Tax Multiple": 28.4137274151881
+      }
+    },
+    "House Value": 479692,
+    "Total Variable Rate Taxes": 2815.3363326,
+    "Total Property Taxes and Charges": 3631.5563326
+  },
+  {
+    "Year": 2011,
+    "Municipality": "Whistler",
+    "Population": 10437,
+    "Total Taxable Value": 10021913396,
+    "Total Taxes Collected": 34005852.4076794,
+    "Tax per Capita": 3258.20182118227,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8866312827,
+        "Tax Rate": 2.5154,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 28612544,
+        "Tax Rate": 19.0119,
+        "Tax Multiple": 7.55820147889004
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 4820000,
+        "Tax Rate": 10.3766,
+        "Tax Multiple": 4.12522859187406
+      },
+      "Business/Other": {
+        "Taxable Value": 1067627225,
+        "Tax Rate": 9.8788,
+        "Tax Multiple": 3.92732766160452
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 54540800,
+        "Tax Rate": 10.3163,
+        "Tax Multiple": 4.10125626142959
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1335600,
+    "Total Variable Rate Taxes": 5847.79104,
+    "Total Property Taxes and Charges": 6952.79104
+  },
+  {
+    "Year": 2011,
+    "Municipality": "Pemberton",
+    "Population": 2399,
+    "Total Taxable Value": 430703394,
+    "Total Taxes Collected": 1070169.1672616,
+    "Tax per Capita": 446.089690396665,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 362020200,
+        "Tax Rate": 2.0565,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 884495,
+        "Tax Rate": 12.3385,
+        "Tax Multiple": 5.99975686846584
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2442900,
+        "Tax Rate": 6.9917,
+        "Tax Multiple": 3.39980549477267
+      },
+      "Business/Other": {
+        "Taxable Value": 63517101,
+        "Tax Rate": 4.6271,
+        "Tax Multiple": 2.24998784342329
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 1806200,
+        "Tax Rate": 2.0565,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 32498,
+        "Tax Rate": 2.0565,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 452810,
+    "Total Variable Rate Taxes": 2538.090612,
+    "Total Property Taxes and Charges": 3494.500612
+  },
+  {
+    "Year": 2012,
+    "Municipality": "Squamish",
+    "Population": 19252,
+    "Total Taxable Value": 3352390979,
+    "Total Taxes Collected": 19807959.4406246,
+    "Tax per Capita": 1028.87800958989,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2837186901,
+        "Tax Rate": 4.32328,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 43012730,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 9.25223441461113
+      },
+      "Major Industry": {
+        "Taxable Value": 13580000,
+        "Tax Rate": 27.5,
+        "Tax Multiple": 6.36091116004515
+      },
+      "Light Industry": {
+        "Taxable Value": 23081500,
+        "Tax Rate": 15.07185,
+        "Tax Multiple": 3.48620723154642
+      },
+      "Business/Other": {
+        "Taxable Value": 423379950,
+        "Tax Rate": 11.72162,
+        "Tax Multiple": 2.71127939897485
+      },
+      "Managed Forest": {
+        "Taxable Value": 699000,
+        "Tax Rate": 110.51645,
+        "Tax Multiple": 25.5631025517663
+      },
+      "Recreation": {
+        "Taxable Value": 11444100,
+        "Tax Rate": 5.19255,
+        "Tax Multiple": 1.20106724523973
+      },
+      "Farm": {
+        "Taxable Value": 6798,
+        "Tax Rate": 116.50485,
+        "Tax Multiple": 26.9482545659777
+      }
+    },
+    "House Value": 468089,
+    "Total Variable Rate Taxes": 3039.46570815,
+    "Total Property Taxes and Charges": 3916.08570815
+  },
+  {
+    "Year": 2012,
+    "Municipality": "Whistler",
+    "Population": 10620,
+    "Total Taxable Value": 9358881904,
+    "Total Taxes Collected": 33780238.8768592,
+    "Tax per Capita": 3180.8134535649,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8276132236,
+        "Tax Rate": 2.6913,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 27223158,
+        "Tax Rate": 20.4703,
+        "Tax Multiple": 7.60610114071267
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3866400,
+        "Tax Rate": 11.9074,
+        "Tax Multiple": 4.42440456285067
+      },
+      "Business/Other": {
+        "Taxable Value": 997720310,
+        "Tax Rate": 10.3895,
+        "Tax Multiple": 3.86040203619069
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 53939800,
+        "Tax Rate": 9.966,
+        "Tax Multiple": 3.70304313900346
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1254300,
+    "Total Variable Rate Taxes": 5776.0515,
+    "Total Property Taxes and Charges": 6881.0515
+  },
+  {
+    "Year": 2012,
+    "Municipality": "Pemberton",
+    "Population": 2472,
+    "Total Taxable Value": 432959743,
+    "Total Taxes Collected": 1331693.3222457,
+    "Tax per Capita": 538.710890876092,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 349949100,
+        "Tax Rate": 2.2569,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 14959640,
+        "Tax Rate": 13.5411,
+        "Tax Multiple": 5.99986707430546
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2104600,
+        "Tax Rate": 7.763,
+        "Tax Multiple": 3.43967388896274
+      },
+      "Business/Other": {
+        "Taxable Value": 61733701,
+        "Tax Rate": 5.0779,
+        "Tax Multiple": 2.24994461429394
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 3872800,
+        "Tax Rate": 2.2569,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 339902,
+        "Tax Rate": 2.2569,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 432851,
+    "Total Variable Rate Taxes": 2527.30011923,
+    "Total Property Taxes and Charges": 3506.93011923
+  },
+  {
+    "Year": 2013,
+    "Municipality": "Squamish",
+    "Population": 19252,
+    "Total Taxable Value": 3372042269,
+    "Total Taxes Collected": 21614612.5917146,
+    "Tax per Capita": 1122.72037147905,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2851756011,
+        "Tax Rate": 4.7422,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 43615460,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 8.43490363122601
+      },
+      "Major Industry": {
+        "Taxable Value": 13819000,
+        "Tax Rate": 27.5,
+        "Tax Multiple": 5.79899624646788
+      },
+      "Light Industry": {
+        "Taxable Value": 23038500,
+        "Tax Rate": 17.3861,
+        "Tax Multiple": 3.66625195057146
+      },
+      "Business/Other": {
+        "Taxable Value": 426870100,
+        "Tax Rate": 12.8602,
+        "Tax Multiple": 2.71186369195732
+      },
+      "Managed Forest": {
+        "Taxable Value": 667000,
+        "Tax Rate": 16.8966,
+        "Tax Multiple": 3.56302981738434
+      },
+      "Recreation": {
+        "Taxable Value": 12269400,
+        "Tax Rate": 5.285,
+        "Tax Multiple": 1.11446164227574
+      },
+      "Farm": {
+        "Taxable Value": 6798,
+        "Tax Rate": 11.1798,
+        "Tax Multiple": 2.35751339040951
+      }
+    },
+    "House Value": 465250,
+    "Total Variable Rate Taxes": 3238.04695,
+    "Total Property Taxes and Charges": 4239.34695
+  },
+  {
+    "Year": 2013,
+    "Municipality": "Whistler",
+    "Population": 10620,
+    "Total Taxable Value": 8999760379,
+    "Total Taxes Collected": 33973044.3485592,
+    "Tax per Capita": 3198.96839440294,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 7952894335,
+        "Tax Rate": 2.834,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 26900118,
+        "Tax Rate": 20.713,
+        "Tax Multiple": 7.30875088214538
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3694500,
+        "Tax Rate": 12.4385,
+        "Tax Multiple": 4.38902611150318
+      },
+      "Business/Other": {
+        "Taxable Value": 962754326,
+        "Tax Rate": 10.6952,
+        "Tax Multiple": 3.77388849682428
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 53517100,
+        "Tax Rate": 9.9885,
+        "Tax Multiple": 3.52452364149612
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1206343,
+    "Total Variable Rate Taxes": 5786.3448338,
+    "Total Property Taxes and Charges": 6891.3448338
+  },
+  {
+    "Year": 2013,
+    "Municipality": "Pemberton",
+    "Population": 2472,
+    "Total Taxable Value": 413370347,
+    "Total Taxes Collected": 1368484.2815715,
+    "Tax per Capita": 553.593965037015,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 332786275,
+        "Tax Rate": 2.4134,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 14754305,
+        "Tax Rate": 14.4804,
+        "Tax Multiple": 6.0
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2209400,
+        "Tax Rate": 8.2053,
+        "Tax Multiple": 3.39989226816939
+      },
+      "Business/Other": {
+        "Taxable Value": 59674301,
+        "Tax Rate": 5.4301,
+        "Tax Multiple": 2.24997928234027
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 3596300,
+        "Tax Rate": 2.4134,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 349766,
+        "Tax Rate": 2.4134,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 409205,
+    "Total Variable Rate Taxes": 2607.617942,
+    "Total Property Taxes and Charges": 3737.247942
+  },
+  {
+    "Year": 2014,
+    "Municipality": "Squamish",
+    "Population": 18319,
+    "Total Taxable Value": 3378430271,
+    "Total Taxes Collected": 22716841.2534478,
+    "Tax per Capita": 1240.06994123303,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 2856055686,
+        "Tax Rate": 4.9908,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 43640075,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 8.0147471347279
+      },
+      "Major Industry": {
+        "Taxable Value": 13694000,
+        "Tax Rate": 27.5,
+        "Tax Multiple": 5.51013865512543
+      },
+      "Light Industry": {
+        "Taxable Value": 22631600,
+        "Tax Rate": 17.7491,
+        "Tax Multiple": 3.55636370922497
+      },
+      "Business/Other": {
+        "Taxable Value": 428624400,
+        "Tax Rate": 13.6364,
+        "Tax Multiple": 2.73230744570009
+      },
+      "Managed Forest": {
+        "Taxable Value": 1557000,
+        "Tax Rate": 16.4226,
+        "Tax Multiple": 3.29057465736956
+      },
+      "Recreation": {
+        "Taxable Value": 12196000,
+        "Tax Rate": 5.588,
+        "Tax Multiple": 1.11966017472149
+      },
+      "Farm": {
+        "Taxable Value": 31510,
+        "Tax Rate": 10.9489,
+        "Tax Multiple": 2.19381662258556
+      }
+    },
+    "House Value": 467029,
+    "Total Variable Rate Taxes": 3360.6005753,
+    "Total Property Taxes and Charges": 4434.1005753
+  },
+  {
+    "Year": 2014,
+    "Municipality": "Whistler",
+    "Population": 10185,
+    "Total Taxable Value": 9136511904,
+    "Total Taxes Collected": 34448168.860986,
+    "Tax per Capita": 3382.24534717585,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8093722135,
+        "Tax Rate": 2.824,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 26636503,
+        "Tax Rate": 21.014,
+        "Tax Multiple": 7.44121813031161
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3817300,
+        "Tax Rate": 12.038,
+        "Tax Multiple": 4.26274787535411
+      },
+      "Business/Other": {
+        "Taxable Value": 958637866,
+        "Tax Rate": 10.894,
+        "Tax Multiple": 3.85764872521246
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 53698100,
+        "Tax Rate": 10.101,
+        "Tax Multiple": 3.57684135977337
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1230217,
+    "Total Variable Rate Taxes": 5877.3617175,
+    "Total Property Taxes and Charges": 6982.3617175
+  },
+  {
+    "Year": 2014,
+    "Municipality": "Pemberton",
+    "Population": 2589,
+    "Total Taxable Value": 412949757,
+    "Total Taxes Collected": 1241698.60272451,
+    "Tax per Capita": 480.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 332031060,
+        "Tax Rate": 2.43711,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 14471955,
+        "Tax Rate": 14.6224,
+        "Tax Multiple": 5.99989331626394
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2203200,
+        "Tax Rate": 8.2856,
+        "Tax Multiple": 3.39976447513653
+      },
+      "Business/Other": {
+        "Taxable Value": 60273401,
+        "Tax Rate": 5.4834,
+        "Tax Multiple": 2.24995999359898
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 3595200,
+        "Tax Rate": 2.43711,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 374941,
+        "Tax Rate": 2.43711,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 427630,
+    "Total Variable Rate Taxes": 2780.8821663,
+    "Total Property Taxes and Charges": 3875.5321663
+  },
+  {
+    "Year": 2015,
+    "Municipality": "Squamish",
+    "Population": 19294.0,
+    "Total Taxable Value": 3539727381,
+    "Total Taxes Collected": 23521432.5431484,
+    "Tax per Capita": 1219.10607148069,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 3007640861,
+        "Tax Rate": 4.9969,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 42300595,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 8.00496307710781
+      },
+      "Major Industry": {
+        "Taxable Value": 14113000,
+        "Tax Rate": 27.5,
+        "Tax Multiple": 5.50341211551162
+      },
+      "Light Industry": {
+        "Taxable Value": 23023100,
+        "Tax Rate": 18.1323,
+        "Tax Multiple": 3.62870980007605
+      },
+      "Business/Other": {
+        "Taxable Value": 439203450,
+        "Tax Rate": 13.444,
+        "Tax Multiple": 2.69046809021593
+      },
+      "Managed Forest": {
+        "Taxable Value": 967000,
+        "Tax Rate": 17.1737,
+        "Tax Multiple": 3.43687085993316
+      },
+      "Recreation": {
+        "Taxable Value": 12441400,
+        "Tax Rate": 5.8879,
+        "Tax Multiple": 1.17831055254258
+      },
+      "Farm": {
+        "Taxable Value": 37975,
+        "Tax Rate": 11.7709,
+        "Tax Multiple": 2.35564049710821
+      }
+    },
+    "House Value": 490155,
+    "Total Variable Rate Taxes": 3497.255925,
+    "Total Property Taxes and Charges": 4702.605925
+  },
+  {
+    "Year": 2015,
+    "Municipality": "Whistler",
+    "Population": 10447.0,
+    "Total Taxable Value": 9719297217,
+    "Total Taxes Collected": 35229170.134768,
+    "Tax per Capita": 3372.18054319594,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 8656391133,
+        "Tax Rate": 2.708,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 24963868,
+        "Tax Rate": 22.941,
+        "Tax Multiple": 8.47156573116691
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3821200,
+        "Tax Rate": 12.23,
+        "Tax Multiple": 4.51624815361891
+      },
+      "Business/Other": {
+        "Taxable Value": 982287916,
+        "Tax Rate": 10.826,
+        "Tax Multiple": 3.99778434268833
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 51833100,
+        "Tax Rate": 10.302,
+        "Tax Multiple": 3.80428360413589
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1317263,
+    "Total Variable Rate Taxes": 6041.0998443,
+    "Total Property Taxes and Charges": 7161.1398443
+  },
+  {
+    "Year": 2015,
+    "Municipality": "Pemberton",
+    "Population": 2601.0,
+    "Total Taxable Value": 426808352,
+    "Total Taxes Collected": 1502345.6710395,
+    "Tax per Capita": 577.60310305248,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 341846275,
+        "Tax Rate": 2.5537,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 15322000,
+        "Tax Rate": 15.3221,
+        "Tax Multiple": 5.99996084113247
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2383200,
+        "Tax Rate": 8.6825,
+        "Tax Multiple": 3.39996867290598
+      },
+      "Business/Other": {
+        "Taxable Value": 63331851,
+        "Tax Rate": 5.7458,
+        "Tax Multiple": 2.24999021028312
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 3541900,
+        "Tax Rate": 2.5537,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 383126,
+        "Tax Rate": 2.5537,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 436403,
+    "Total Variable Rate Taxes": 2701.4654909,
+    "Total Property Taxes and Charges": 3914.0154909
+  },
+  {
+    "Year": 2016,
+    "Municipality": "Squamish",
+    "Population": 18469.0,
+    "Total Taxable Value": 4183799306,
+    "Total Taxes Collected": 24408689.0759772,
+    "Tax per Capita": 1321.60317699806,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 3609135186,
+        "Tax Rate": 4.4092,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 43695105,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 9.0719404880704
+      },
+      "Major Industry": {
+        "Taxable Value": 14005000,
+        "Tax Rate": 27.5,
+        "Tax Multiple": 6.2369590855484
+      },
+      "Light Industry": {
+        "Taxable Value": 24074400,
+        "Tax Rate": 16.6839,
+        "Tax Multiple": 3.78388369772294
+      },
+      "Business/Other": {
+        "Taxable Value": 474579840,
+        "Tax Rate": 12.3164,
+        "Tax Multiple": 2.79334119568176
+      },
+      "Managed Forest": {
+        "Taxable Value": 4407000,
+        "Tax Rate": 12.3164,
+        "Tax Multiple": 2.79334119568176
+      },
+      "Recreation": {
+        "Taxable Value": 13864800,
+        "Tax Rate": 4.4092,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 37975,
+        "Tax Rate": 4.4092,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 580501,
+    "Total Variable Rate Taxes": 3683.278845,
+    "Total Property Taxes and Charges": 4941.728845
+  },
+  {
+    "Year": 2016,
+    "Municipality": "Whistler",
+    "Population": 10361.0,
+    "Total Taxable Value": 10840440162,
+    "Total Taxes Collected": 35981569.17755,
+    "Tax per Capita": 3472.78922667214,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 9741745131,
+        "Tax Rate": 2.468,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 25061758,
+        "Tax Rate": 23.088,
+        "Tax Multiple": 9.354943273906
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3887100,
+        "Tax Rate": 12.203,
+        "Tax Multiple": 4.94448946515397
+      },
+      "Business/Other": {
+        "Taxable Value": 1015545073,
+        "Tax Rate": 10.606,
+        "Tax Multiple": 4.29740680713128
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 54201100,
+        "Tax Rate": 10.0,
+        "Tax Multiple": 4.05186385737439
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1496915,
+    "Total Variable Rate Taxes": 6244.231231,
+    "Total Property Taxes and Charges": 7374.481231
+  },
+  {
+    "Year": 2016,
+    "Municipality": "Pemberton",
+    "Population": 2446.0,
+    "Total Taxable Value": 453276042,
+    "Total Taxes Collected": 1517932.8399966,
+    "Tax per Capita": 620.577612427065,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 366372400,
+        "Tax Rate": 2.4617,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 15323160,
+        "Tax Rate": 14.7705,
+        "Tax Multiple": 6.00012186700248
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2443000,
+        "Tax Rate": 8.3699,
+        "Tax Multiple": 3.40004874680099
+      },
+      "Business/Other": {
+        "Taxable Value": 64688601,
+        "Tax Rate": 5.5389,
+        "Tax Multiple": 2.25003046675062
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 4100900,
+        "Tax Rate": 2.4617,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 347981,
+        "Tax Rate": 2.4617,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 472925,
+    "Total Variable Rate Taxes": 2743.627095,
+    "Total Property Taxes and Charges": 3962.047095
+  },
+  {
+    "Year": 2017,
+    "Municipality": "Squamish",
+    "Population": 19067.0,
+    "Total Taxable Value": 5802708230,
+    "Total Taxes Collected": 26084344.51857,
+    "Tax per Capita": 1376.60945710232,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 5053749510,
+        "Tax Rate": 3.3924,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 48292755,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 11.79106237472
+      },
+      "Major Industry": {
+        "Taxable Value": 23554000,
+        "Tax Rate": 31.41,
+        "Tax Multiple": 9.25893172974885
+      },
+      "Light Industry": {
+        "Taxable Value": 31112700,
+        "Tax Rate": 12.9333,
+        "Tax Multiple": 3.81243367527414
+      },
+      "Business/Other": {
+        "Taxable Value": 624238750,
+        "Tax Rate": 9.5126,
+        "Tax Multiple": 2.80409149864403
+      },
+      "Managed Forest": {
+        "Taxable Value": 2872000,
+        "Tax Rate": 9.5162,
+        "Tax Multiple": 2.80515269425775
+      },
+      "Recreation": {
+        "Taxable Value": 18862700,
+        "Tax Rate": 3.3924,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 25815,
+        "Tax Rate": 3.3924,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 798347,
+    "Total Variable Rate Taxes": 3962.994508,
+    "Total Property Taxes and Charges": 5272.994508
+  },
+  {
+    "Year": 2017,
+    "Municipality": "Whistler",
+    "Population": 10627.0,
+    "Total Taxable Value": 13125449705,
+    "Total Taxes Collected": 37061936.003028,
+    "Tax per Capita": 3487.52573661692,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 11864098231,
+        "Tax Rate": 2.092,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 28041208,
+        "Tax Rate": 21.0,
+        "Tax Multiple": 10.038240917782
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 4049200,
+        "Tax Rate": 11.937,
+        "Tax Multiple": 5.70602294455067
+      },
+      "Business/Other": {
+        "Taxable Value": 1171337666,
+        "Tax Rate": 9.436,
+        "Tax Multiple": 4.51051625239006
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 57923400,
+        "Tax Rate": 9.535,
+        "Tax Multiple": 4.55783938814532
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 1792576,
+    "Total Variable Rate Taxes": 6249.2784512,
+    "Total Property Taxes and Charges": 7383.8984512
+  },
+  {
+    "Year": 2017,
+    "Municipality": "Pemberton",
+    "Population": 2511.0,
+    "Total Taxable Value": 561018969,
+    "Total Taxes Collected": 1572833.0361987,
+    "Tax per Capita": 626.377154997491,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 464653350,
+        "Tax Rate": 2.1269,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 16279910,
+        "Tax Rate": 12.7613,
+        "Tax Multiple": 5.99995298321501
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2665500,
+        "Tax Rate": 7.2314,
+        "Tax Multiple": 3.399971789929
+      },
+      "Business/Other": {
+        "Taxable Value": 72545201,
+        "Tax Rate": 4.7855,
+        "Tax Multiple": 2.24998824580375
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 4677900,
+        "Tax Rate": 2.1269,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 197108,
+        "Tax Rate": 2.1269,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 567773,
+    "Total Variable Rate Taxes": 2789.8094128,
+    "Total Property Taxes and Charges": 3968.1494128
+  },
+  {
+    "Year": 2018,
+    "Municipality": "Squamish",
+    "Population": 19852.0,
+    "Total Taxable Value": 6630749909,
+    "Total Taxes Collected": 27680651.3861231,
+    "Tax per Capita": 1394.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 5762862310,
+        "Tax Rate": 3.1789,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 46762565,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 12.5829689515241
+      },
+      "Major Industry": {
+        "Taxable Value": 23630000,
+        "Tax Rate": 32.3896,
+        "Tax Multiple": 10.1889332788071
+      },
+      "Light Industry": {
+        "Taxable Value": 31402300,
+        "Tax Rate": 12.1434,
+        "Tax Multiple": 3.82000062914845
+      },
+      "Business/Other": {
+        "Taxable Value": 739756737,
+        "Tax Rate": 8.6784,
+        "Tax Multiple": 2.73000094372267
+      },
+      "Managed Forest": {
+        "Taxable Value": 1432400,
+        "Tax Rate": 8.6784,
+        "Tax Multiple": 2.73000094372267
+      },
+      "Recreation": {
+        "Taxable Value": 24869200,
+        "Tax Rate": 3.1789,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 34397,
+        "Tax Rate": 3.1789,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 877419,
+    "Total Variable Rate Taxes": 4042.8835263,
+    "Total Property Taxes and Charges": 5367.8835263
+  },
+  {
+    "Year": 2018,
+    "Municipality": "Whistler",
+    "Population": 10582.0,
+    "Total Taxable Value": 15967885930,
+    "Total Taxes Collected": 38118724.461438,
+    "Tax per Capita": 3602.22306382895,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 14489140130,
+        "Tax Rate": 1.768,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 26534134,
+        "Tax Rate": 21.378,
+        "Tax Multiple": 12.091628959276
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 3984500,
+        "Tax Rate": 11.663,
+        "Tax Multiple": 6.59671945701357
+      },
+      "Business/Other": {
+        "Taxable Value": 1384118366,
+        "Tax Rate": 8.181,
+        "Tax Multiple": 4.62726244343891
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 64108800,
+        "Tax Rate": 8.809,
+        "Tax Multiple": 4.98246606334842
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 2123793,
+    "Total Variable Rate Taxes": 6445.9241343,
+    "Total Property Taxes and Charges": 7598.9341343
+  },
+  {
+    "Year": 2018,
+    "Municipality": "Pemberton",
+    "Population": 2553.0,
+    "Total Taxable Value": 686317918,
+    "Total Taxes Collected": 1643251.4964717,
+    "Tax per Capita": 643.655110251351,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 576030700,
+        "Tax Rate": 1.8836,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 15403655,
+        "Tax Rate": 10.5951,
+        "Tax Multiple": 5.62492036525802
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 2802400,
+        "Tax Rate": 6.4042,
+        "Tax Multiple": 3.3999787640688
+      },
+      "Business/Other": {
+        "Taxable Value": 86495751,
+        "Tax Rate": 4.238,
+        "Tax Multiple": 2.24994691017201
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 5270600,
+        "Tax Rate": 1.8836,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 314812,
+        "Tax Rate": 1.8836,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 677037,
+    "Total Variable Rate Taxes": 2999.4093174,
+    "Total Property Taxes and Charges": 4244.0593174
+  },
+  {
+    "Year": 2019,
+    "Municipality": "Squamish",
+    "Population": 21229.0,
+    "Total Taxable Value": 7500357998,
+    "Total Taxes Collected": 29438568.8032076,
+    "Tax per Capita": 1387.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 6466081860,
+        "Tax Rate": 2.9891,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 48120060,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 13.3819544344452
+      },
+      "Major Industry": {
+        "Taxable Value": 23759000,
+        "Tax Rate": 26.5,
+        "Tax Multiple": 8.86554481281991
+      },
+      "Light Industry": {
+        "Taxable Value": 41326700,
+        "Tax Rate": 11.4184,
+        "Tax Multiple": 3.82001271285671
+      },
+      "Business/Other": {
+        "Taxable Value": 891187869,
+        "Tax Rate": 7.8613,
+        "Tax Multiple": 2.62998895988759
+      },
+      "Managed Forest": {
+        "Taxable Value": 1585900,
+        "Tax Rate": 7.8613,
+        "Tax Multiple": 2.62998895988759
+      },
+      "Recreation": {
+        "Taxable Value": 28244500,
+        "Tax Rate": 2.9891,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 52109,
+        "Tax Rate": 2.9891,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 931497,
+    "Total Variable Rate Taxes": 4031.2395669,
+    "Total Property Taxes and Charges": 5384.2395669
+  },
+  {
+    "Year": 2019,
+    "Municipality": "Whistler",
+    "Population": 11901.0,
+    "Total Taxable Value": 18756667115,
+    "Total Taxes Collected": 39198063.160956,
+    "Tax per Capita": 3293.67810780237,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 16950108630,
+        "Tax Rate": 1.552,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 26865369,
+        "Tax Rate": 21.756,
+        "Tax Multiple": 14.0180412371134
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 6006000,
+        "Tax Rate": 11.157,
+        "Tax Multiple": 7.18878865979381
+      },
+      "Business/Other": {
+        "Taxable Value": 1702271516,
+        "Tax Rate": 6.852,
+        "Tax Multiple": 4.41494845360825
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 71415600,
+        "Tax Rate": 8.066,
+        "Tax Multiple": 5.19716494845361
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 2355863,
+    "Total Variable Rate Taxes": 6465.6660035,
+    "Total Property Taxes and Charges": 7659.9560035
+  },
+  {
+    "Year": 2019,
+    "Municipality": "Pemberton",
+    "Population": 2818.0,
+    "Total Taxable Value": 871996895,
+    "Total Taxes Collected": 1830423.2225018,
+    "Tax per Capita": 649.54692068907,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 707377175,
+        "Tax Rate": 1.6107,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 15652510,
+        "Tax Rate": 9.0599,
+        "Tax Multiple": 5.62482150617744
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 11058200,
+        "Tax Rate": 5.4762,
+        "Tax Multiple": 3.39988824734587
+      },
+      "Business/Other": {
+        "Taxable Value": 132396401,
+        "Tax Rate": 3.624,
+        "Tax Multiple": 2.24995343639411
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 5172900,
+        "Tax Rate": 1.6107,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 339709,
+        "Tax Rate": 1.6107,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 759601,
+    "Total Variable Rate Taxes": 3019.3380149,
+    "Total Property Taxes and Charges": 4831.6080149
+  },
+  {
+    "Year": 2020,
+    "Municipality": "Squamish",
+    "Population": 21273,
+    "Total Taxable Value": 7749367363,
+    "Total Taxes Collected": 30354007,
+    "Tax per Capita": 1427.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 6687208385,
+        "Tax Rate": 2.9735,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 49183600,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 13.452160753321001
+      },
+      "Major Industry": {
+        "Taxable Value": 23851000,
+        "Tax Rate": 30.2636,
+        "Tax Multiple": 10.177770304355137
+      },
+      "Light Industry": {
+        "Taxable Value": 39982100,
+        "Tax Rate": 11.3588,
+        "Tax Multiple": 3.820010089120565
+      },
+      "Business/Other": {
+        "Taxable Value": 917831369,
+        "Tax Rate": 7.6419,
+        "Tax Multiple": 2.570001681520094
+      },
+      "Managed Forest": {
+        "Taxable Value": 2964000,
+        "Tax Rate": 7.6419,
+        "Tax Multiple": 2.570001681520094
+      },
+      "Recreation": {
+        "Taxable Value": 28294800,
+        "Tax Rate": 2.9735,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 52109,
+        "Tax Rate": 2.9735,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 941240,
+    "Total Variable Rate Taxes": 4115,
+    "Total Property Taxes and Charges": 5495
+  },
+  {
+    "Year": 2020,
+    "Municipality": "Whistler",
+    "Population": 13948,
+    "Total Taxable Value": 19399522930,
+    "Total Taxes Collected": 40824492,
+    "Tax per Capita": 2927.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 17422401930,
+        "Tax Rate": 1.558,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 27425984,
+        "Tax Rate": 21.789,
+        "Tax Multiple": 13.985237483953787
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 7081600,
+        "Tax Rate": 11.174,
+        "Tax Multiple": 7.172015404364569
+      },
+      "Business/Other": {
+        "Taxable Value": 1859875816,
+        "Tax Rate": 6.38,
+        "Tax Multiple": 4.094993581514762
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 82737600,
+        "Tax Rate": 7.133,
+        "Tax Multiple": 4.578305519897304
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 2478787,
+    "Total Variable Rate Taxes": 6958,
+    "Total Property Taxes and Charges": 8163
+  },
+  {
+    "Year": 2020,
+    "Municipality": "Pemberton",
+    "Population": 3103,
+    "Total Taxable Value": 943301365,
+    "Total Taxes Collected": 1938384,
+    "Tax per Capita": 625.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 785025025,
+        "Tax Rate": 1.5708,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 15886670,
+        "Tax Rate": 8.8355,
+        "Tax Multiple": 5.62484084542908
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 10852700,
+        "Tax Rate": 5.3406,
+        "Tax Multiple": 3.399923605805959
+      },
+      "Business/Other": {
+        "Taxable Value": 127428001,
+        "Tax Rate": 3.5342,
+        "Tax Multiple": 2.2499363381716324
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 3771600,
+        "Tax Rate": 1.5708,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 337369,
+        "Tax Rate": 1.5708,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 806490,
+    "Total Variable Rate Taxes": 3226,
+    "Total Property Taxes and Charges": 4553
+  },
+  {
+    "Year": 2021,
+    "Municipality": "Squamish",
+    "Population": 22253,
+    "Total Taxable Value": 8627966523,
+    "Total Taxes Collected": 32297258,
+    "Tax per Capita": 1451.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 7463243210,
+        "Tax Rate": 2.8601,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 49786205,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 13.985524981643998
+      },
+      "Major Industry": {
+        "Taxable Value": 24863000,
+        "Tax Rate": 30.3454,
+        "Tax Multiple": 10.609908744449495
+      },
+      "Light Industry": {
+        "Taxable Value": 37031300,
+        "Tax Rate": 10.9256,
+        "Tax Multiple": 3.8200062934862413
+      },
+      "Business/Other": {
+        "Taxable Value": 1021095567,
+        "Tax Rate": 7.3505,
+        "Tax Multiple": 2.570015034439355
+      },
+      "Managed Forest": {
+        "Taxable Value": 1897900,
+        "Tax Rate": 7.3505,
+        "Tax Multiple": 2.570015034439355
+      },
+      "Recreation": {
+        "Taxable Value": 29994100,
+        "Tax Rate": 2.8601,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 55241,
+        "Tax Rate": 2.8601,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1030249,
+    "Total Variable Rate Taxes": 4357,
+    "Total Property Taxes and Charges": 5787
+  },
+  {
+    "Year": 2021,
+    "Municipality": "Whistler",
+    "Population": 13918,
+    "Total Taxable Value": 19649262400,
+    "Total Taxes Collected": 41617804,
+    "Tax per Capita": 2990.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 17898198030,
+        "Tax Rate": 1.5423,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 27271049,
+        "Tax Rate": 27.8916,
+        "Tax Multiple": 18.084419373662712
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 7107900,
+        "Tax Rate": 11.2529,
+        "Tax Multiple": 7.296181028334306
+      },
+      "Business/Other": {
+        "Taxable Value": 1633603821,
+        "Tax Rate": 7.3517,
+        "Tax Multiple": 4.7667120534267005
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 83081600,
+        "Tax Rate": 7.2583,
+        "Tax Multiple": 4.706153147896
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 2576896,
+    "Total Variable Rate Taxes": 7121,
+    "Total Property Taxes and Charges": 8326
+  },
+  {
+    "Year": 2021,
+    "Municipality": "Pemberton",
+    "Population": 3179,
+    "Total Taxable Value": 1034567263,
+    "Total Taxes Collected": 2080961,
+    "Tax per Capita": 655.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 870228950,
+        "Tax Rate": 1.5593,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 15991850,
+        "Tax Rate": 8.7713,
+        "Tax Multiple": 5.625152311934843
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 10888300,
+        "Tax Rate": 5.3018,
+        "Tax Multiple": 3.400115436413776
+      },
+      "Business/Other": {
+        "Taxable Value": 133595001,
+        "Tax Rate": 3.5085,
+        "Tax Multiple": 2.25004809850574
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 3550900,
+        "Tax Rate": 1.5593,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 312262,
+        "Tax Rate": 1.5593,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 898202,
+    "Total Variable Rate Taxes": 3509,
+    "Total Property Taxes and Charges": 4856
+  },
+  {
+    "Year": 2022,
+    "Municipality": "Squamish",
+    "Population": 22253,
+    "Total Taxable Value": 11447857593,
+    "Total Taxes Collected": 34468068,
+    "Tax per Capita": 1549.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 9910410785,
+        "Tax Rate": 2.2928,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 52068115,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 17.445917655268666
+      },
+      "Major Industry": {
+        "Taxable Value": 24863000,
+        "Tax Rate": 30.1641,
+        "Tax Multiple": 13.15601011863224
+      },
+      "Light Industry": {
+        "Taxable Value": 80846200,
+        "Tax Rate": 8.7585,
+        "Tax Multiple": 3.820001744591765
+      },
+      "Business/Other": {
+        "Taxable Value": 1341318584,
+        "Tax Rate": 5.8925,
+        "Tax Multiple": 2.5700017445917656
+      },
+      "Managed Forest": {
+        "Taxable Value": 1897900,
+        "Tax Rate": 5.8925,
+        "Tax Multiple": 2.5700017445917656
+      },
+      "Recreation": {
+        "Taxable Value": 36400900,
+        "Tax Rate": 2.2928,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 52109,
+        "Tax Rate": 2.2928,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1390665,
+    "Total Variable Rate Taxes": 4824,
+    "Total Property Taxes and Charges": 6294
+  },
+  {
+    "Year": 2022,
+    "Municipality": "Whistler",
+    "Population": 13918,
+    "Total Taxable Value": 24224249077,
+    "Total Taxes Collected": 44375880,
+    "Tax per Capita": 3188.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 22404476330,
+        "Tax Rate": 1.3195,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 27512559,
+        "Tax Rate": 28.983,
+        "Tax Multiple": 21.965138309965898
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 8392100,
+        "Tax Rate": 10.1714,
+        "Tax Multiple": 7.70852595680182
+      },
+      "Business/Other": {
+        "Taxable Value": 1697993788,
+        "Tax Rate": 7.5132,
+        "Tax Multiple": 5.693974990526716
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 85874300,
+        "Tax Rate": 7.4941,
+        "Tax Multiple": 5.679499810534294
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 3260629,
+    "Total Variable Rate Taxes": 7691,
+    "Total Property Taxes and Charges": 8932
+  },
+  {
+    "Year": 2022,
+    "Municipality": "Pemberton",
+    "Population": 3179,
+    "Total Taxable Value": 1291123132,
+    "Total Taxes Collected": 2166448,
+    "Tax per Capita": 681.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 1101327700,
+        "Tax Rate": 1.3282,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 16196305,
+        "Tax Rate": 7.4712,
+        "Tax Multiple": 5.625056467399488
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 10531200,
+        "Tax Rate": 4.5159,
+        "Tax Multiple": 3.4000150579731967
+      },
+      "Business/Other": {
+        "Taxable Value": 158869001,
+        "Tax Rate": 2.9885,
+        "Tax Multiple": 2.250037644932992
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 3845700,
+        "Tax Rate": 1.3282,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 353226,
+        "Tax Rate": 1.3282,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1084799,
+    "Total Variable Rate Taxes": 3628,
+    "Total Property Taxes and Charges": 4975
+  },
+  {
+    "Year": 2023,
+    "Municipality": "Squamish",
+    "Population": 23652,
+    "Total Taxable Value": 13120472556,
+    "Total Taxes Collected": 37528227.0,
+    "Tax per Capita": 1587.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 11044472335,
+        "Tax Rate": 2.1246,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 56503260,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 18.827073331450627
+      },
+      "Major Industry": {
+        "Taxable Value": 25478000,
+        "Tax Rate": 28.9027,
+        "Tax Multiple": 13.603831309422949
+      },
+      "Light Industry": {
+        "Taxable Value": 118545800,
+        "Tax Rate": 8.116,
+        "Tax Multiple": 3.820013178951332
+      },
+      "Business/Other": {
+        "Taxable Value": 1840787650,
+        "Tax Rate": 5.3115,
+        "Tax Multiple": 2.5
+      },
+      "Managed Forest": {
+        "Taxable Value": 1897900,
+        "Tax Rate": 5.3115,
+        "Tax Multiple": 2.5
+      },
+      "Recreation": {
+        "Taxable Value": 32735500,
+        "Tax Rate": 2.1246,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 52111,
+        "Tax Rate": 2.1246,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1507393,
+    "Total Variable Rate Taxes": 4867.0,
+    "Total Property Taxes and Charges": 6357.0
+  },
+  {
+    "Year": 2023,
+    "Municipality": "Whistler",
+    "Population": 13537,
+    "Total Taxable Value": 27732210947,
+    "Total Taxes Collected": 48297424.0,
+    "Tax per Capita": 3568.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 25407566172,
+        "Tax Rate": 1.2671,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 32146698,
+        "Tax Rate": 26.9104,
+        "Tax Multiple": 21.237787072843503
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 16742400,
+        "Tax Rate": 5.4451,
+        "Tax Multiple": 4.297293031331387
+      },
+      "Business/Other": {
+        "Taxable Value": 2184083377,
+        "Tax Rate": 6.3485,
+        "Tax Multiple": 5.010259648015153
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 91672300,
+        "Tax Rate": 7.7826,
+        "Tax Multiple": 6.142056664825192
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 3595352,
+    "Total Variable Rate Taxes": 8147.0,
+    "Total Property Taxes and Charges": 9438.0
+  },
+  {
+    "Year": 2023,
+    "Municipality": "Pemberton",
+    "Population": 3460,
+    "Total Taxable Value": 1614334138,
+    "Total Taxes Collected": 2483767.0,
+    "Tax per Capita": 718.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 1329660800,
+        "Tax Rate": 1.1721,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 16780795,
+        "Tax Rate": 6.5933,
+        "Tax Multiple": 5.625202627762137
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 44664400,
+        "Tax Rate": 3.9853,
+        "Tax Multiple": 3.4001365071239658
+      },
+      "Business/Other": {
+        "Taxable Value": 218051801,
+        "Tax Rate": 2.6373,
+        "Tax Multiple": 2.250063987714359
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 4848200,
+        "Tax Rate": 1.1721,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 328142,
+        "Tax Rate": 1.1721,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1256258,
+    "Total Variable Rate Taxes": 4110.0,
+    "Total Property Taxes and Charges": 5491.0
+  },
+  {
+    "Year": 2024,
+    "Municipality": "Squamish",
+    "Population": 24655,
+    "Total Taxable Value": 13429778770,
+    "Total Taxes Collected": 42594160.0,
+    "Tax per Capita": 1728.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 11105093810,
+        "Tax Rate": 2.3108,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 60855800,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 17.310022503029256
+      },
+      "Major Industry": {
+        "Taxable Value": 26798000,
+        "Tax Rate": 125.0,
+        "Tax Multiple": 54.09382032196642
+      },
+      "Light Industry": {
+        "Taxable Value": 210676200,
+        "Tax Rate": 8.8273,
+        "Tax Multiple": 3.820019041024753
+      },
+      "Business/Other": {
+        "Taxable Value": 1983673801,
+        "Tax Rate": 5.777,
+        "Tax Multiple": 2.5
+      },
+      "Managed Forest": {
+        "Taxable Value": 6662900,
+        "Tax Rate": 5.777,
+        "Tax Multiple": 2.5
+      },
+      "Recreation": {
+        "Taxable Value": 35978700,
+        "Tax Rate": 2.3108,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 39559,
+        "Tax Rate": 2.3108,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1500600,
+    "Total Variable Rate Taxes": 5181.0,
+    "Total Property Taxes and Charges": 6721.0
+  },
+  {
+    "Year": 2024,
+    "Municipality": "Whistler",
+    "Population": 14025,
+    "Total Taxable Value": 27759640592,
+    "Total Taxes Collected": 52431125.0,
+    "Tax per Capita": 3738.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 25344482530,
+        "Tax Rate": 1.3809,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 33482443,
+        "Tax Rate": 27.6756,
+        "Tax Multiple": 20.041711927004126
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 15876300,
+        "Tax Rate": 6.2101,
+        "Tax Multiple": 4.49713954667246
+      },
+      "Business/Other": {
+        "Taxable Value": 2272324119,
+        "Tax Rate": 6.6163,
+        "Tax Multiple": 4.791295531899486
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 93475200,
+        "Tax Rate": 8.4323,
+        "Tax Multiple": 6.106379897168513
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 3568356,
+    "Total Variable Rate Taxes": 8638.0,
+    "Total Property Taxes and Charges": 9999.0
+  },
+  {
+    "Year": 2024,
+    "Municipality": "Pemberton",
+    "Population": 3678,
+    "Total Taxable Value": 1731309797,
+    "Total Taxes Collected": 2867024.0,
+    "Tax per Capita": 780.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 1438071525,
+        "Tax Rate": 1.2771,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 17944005,
+        "Tax Rate": 7.1835,
+        "Tax Multiple": 5.624853182992719
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 42201000,
+        "Tax Rate": 4.342,
+        "Tax Multiple": 3.3998903766345627
+      },
+      "Business/Other": {
+        "Taxable Value": 228438201,
+        "Tax Rate": 2.8734,
+        "Tax Multiple": 2.2499412731970874
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 4333000,
+        "Tax Rate": 1.2771,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 322066,
+        "Tax Rate": 1.2771,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1306282,
+    "Total Variable Rate Taxes": 4515.0,
+    "Total Property Taxes and Charges": 4515.0
+  },
+  {
+    "Year": 2025,
+    "Municipality": "Squamish",
+    "Population": 28056,
+    "Total Taxable Value": 13617401773,
+    "Total Taxes Collected": 50035179,
+    "Tax per Capita": 1783.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 11423721510,
+        "Tax Rate": 2.5997,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 63279450,
+        "Tax Rate": 40.0,
+        "Tax Multiple": 15.386390737392777
+      },
+      "Major Industry": {
+        "Taxable Value": 39773000,
+        "Tax Rate": 125.0,
+        "Tax Multiple": 48.082471054352425
+      },
+      "Light Industry": {
+        "Taxable Value": 170642600,
+        "Tax Rate": 10.8071,
+        "Tax Multiple": 4.157056583451937
+      },
+      "Business/Other": {
+        "Taxable Value": 1887068245,
+        "Tax Rate": 7.0254,
+        "Tax Multiple": 2.7023887371619804
+      },
+      "Managed Forest": {
+        "Taxable Value": 1897900,
+        "Tax Rate": 23.1431,
+        "Tax Multiple": 8.902219486863869
+      },
+      "Recreation": {
+        "Taxable Value": 30974500,
+        "Tax Rate": 2.7718,
+        "Tax Multiple": 1.0661999461476324
+      },
+      "Farm": {
+        "Taxable Value": 44568,
+        "Tax Rate": 2.6369,
+        "Tax Multiple": 1.0143093433857753
+      }
+    },
+    "House Value": 1517821,
+    "Total Variable Rate Taxes": 5768,
+    "Total Property Taxes and Charges": 7374
+  },
+  {
+    "Year": 2025,
+    "Municipality": "Whistler",
+    "Population": 15625,
+    "Total Taxable Value": 27781201707,
+    "Total Taxes Collected": 57602680,
+    "Tax per Capita": 3687.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 25292800630,
+        "Tax Rate": 1.5083,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 34211492,
+        "Tax Rate": 35.0,
+        "Tax Multiple": 23.204932705695153
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 15710300,
+        "Tax Rate": 6.7935,
+        "Tax Multiple": 4.504077438175429
+      },
+      "Business/Other": {
+        "Taxable Value": 2334744085,
+        "Tax Rate": 6.8511,
+        "Tax Multiple": 4.54226612742823
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 103735200,
+        "Tax Rate": 15.083,
+        "Tax Multiple": 10.0
+      },
+      "Farm": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      }
+    },
+    "House Value": 3569071,
+    "Total Variable Rate Taxes": 9292,
+    "Total Property Taxes and Charges": 10733
+  },
+  {
+    "Year": 2025,
+    "Municipality": "Pemberton",
+    "Population": 3566,
+    "Total Taxable Value": 1767444139,
+    "Total Taxes Collected": 3299043,
+    "Tax per Capita": 925.0,
+    "Property Classes": {
+      "Residential": {
+        "Taxable Value": 1475396150,
+        "Tax Rate": 1.4505,
+        "Tax Multiple": 1.0
+      },
+      "Utilities": {
+        "Taxable Value": 19091555,
+        "Tax Rate": 8.159,
+        "Tax Multiple": 5.62495691140986
+      },
+      "Major Industry": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Light Industry": {
+        "Taxable Value": 38942500,
+        "Tax Rate": 4.9317,
+        "Tax Multiple": 3.4000000000000004
+      },
+      "Business/Other": {
+        "Taxable Value": 229296301,
+        "Tax Rate": 3.2636,
+        "Tax Multiple": 2.2499827645639434
+      },
+      "Managed Forest": {
+        "Taxable Value": 0,
+        "Tax Rate": 0.0,
+        "Tax Multiple": 0.0
+      },
+      "Recreation": {
+        "Taxable Value": 4383900,
+        "Tax Rate": 1.4505,
+        "Tax Multiple": 1.0
+      },
+      "Farm": {
+        "Taxable Value": 333733,
+        "Tax Rate": 1.4505,
+        "Tax Multiple": 1.0
+      }
+    },
+    "House Value": 1361957,
+    "Total Variable Rate Taxes": 5129,
+    "Total Property Taxes and Charges": 5129
+  }
+]
