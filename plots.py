@@ -1,9 +1,9 @@
 import json
 import pandas as pd
-import seaborn as sns
+#import seaborn as sns
 from pathlib import Path
 
-sns.set_theme(style="whitegrid")
+#sns.set_theme(style="whitegrid")
 
 
 # ---------------------------------------------------------------------------
@@ -92,22 +92,22 @@ PLOT_VARIABLES: dict[str, str] = {
 }
 
 
-# ---------------------------------------------------------------------------
-# Plot function
-# ---------------------------------------------------------------------------
+# # ---------------------------------------------------------------------------
+# # Plot function
+# # ---------------------------------------------------------------------------
 
-def plot_data(var: str, municipalities: str | list[str]) -> None:
-    """Plot a variable over time for one or more municipalities."""
-    if isinstance(municipalities, str):
-        municipalities = [municipalities]
+# def plot_data(var: str, municipalities: str | list[str]) -> None:
+#     """Plot a variable over time for one or more municipalities."""
+#     if isinstance(municipalities, str):
+#         municipalities = [municipalities]
 
-    if var not in PLOT_VARIABLES:
-        raise ValueError(
-            f"Unknown variable '{var}'. Choose from:\n  " +
-            "\n  ".join(PLOT_VARIABLES)
-        )
+#     if var not in PLOT_VARIABLES:
+#         raise ValueError(
+#             f"Unknown variable '{var}'. Choose from:\n  " +
+#             "\n  ".join(PLOT_VARIABLES)
+#         )
 
-    col = PLOT_VARIABLES[var]
-    df  = plot_df[plot_df['Municipality'].isin(municipalities)][['Year', 'Municipality', col]].dropna()
+#     col = PLOT_VARIABLES[var]
+#     df  = plot_df[plot_df['Municipality'].isin(municipalities)][['Year', 'Municipality', col]].dropna()
 
-    sns.lineplot(data=df, x='Year', y=col, hue='Municipality', marker='o')
+#     #sns.lineplot(data=df, x='Year', y=col, hue='Municipality', marker='o')
