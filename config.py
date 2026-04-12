@@ -1,5 +1,9 @@
 # configuration variables 
-#MUNICIPALITIES = ['Squamish', 'Whistler', 'Pemberton']
+# MUNICIPALITIES = [
+#     'Squamish', 
+#     'Whistler', 
+#     'Pemberton'
+#     ]
 
 MUNICIPALITIES = [
     '100 Mile House',
