@@ -626,6 +626,7 @@ name = "shiny-test"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "lzstring" },
     { name = "openpyxl" },
     { name = "pandas" },
     { name = "plotly" },
@@ -637,6 +638,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "lzstring", specifier = ">=1.0.4" },
     { name = "openpyxl", specifier = ">=3.1.5" },
     { name = "pandas", specifier = ">=3.0.2" },
     { name = "plotly", specifier = ">=6.7.0" },
